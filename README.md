@@ -9,8 +9,8 @@
 - JavaScript
 
 📌 Projetos:
-- [Projeto 1](link)
-- [Projeto 2](link)
+- [Projeto 1](tenis-store-plum.vercel.app)
+- [Projeto 2](card-pio-online-swart.vercel.app)
 
 📫 Contato:
-- LinkedIn: (seu link)
+- LinkedIn: (linkedin.com/in/luana-fernandes-76b4113b9)
