@@ -9,7 +9,7 @@
 - JavaScript
 
 📌 Projetos:
-- [Projeto 1](tenis-store-plum.vercel.app)
+- [Projeto 1](LuanaFernandes85/tenis-store)
 - [Projeto 2](card-pio-online-swart.vercel.app)
 
 📫 Contato:
